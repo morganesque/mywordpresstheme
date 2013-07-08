@@ -1,0 +1,5 @@
+<?php
+
+    PreDump($post);
+
+?>
